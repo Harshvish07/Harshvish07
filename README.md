@@ -25,7 +25,7 @@
 
 ## 📂 Featured Projects
 
-### 🔗 [Job Portal](https://github.com/Harshvish07/job-portal)
+### 🔗 [Job Portal](https://github.com/Harshvish07/Job-portal-Employer-React-js-)
 
 Secure user authentication, phone/email OTP validation, responsive UI using React, Tailwind, and Context API.
 
