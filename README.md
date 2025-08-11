@@ -33,9 +33,9 @@ Secure user authentication, phone/email OTP validation, responsive UI using Reac
 
 Media management app with Appwrite backend and image upload, view, delete. Built with React and Tailwind.
 
-### 🔗 [Car Rental Website](https://github.com/Harshvish07/CarRental)
+### 🔗 [Sereamify](https://github.com/Harshvish07/Chitzy)
 
-Full-featured car rental app using HTML, CSS, JavaScript, PHP, and MySQL with admin panel.
+Full-featured Chat, Video call app. Build with GetStream.io, ReactJs and NodeJs.
 
 ---
 
