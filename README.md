@@ -1,11 +1,11 @@
 # Hi, I'm Harsh Vishwakarma 👋
 
-🚀 I'm a Frontend Developer passionate about building user-friendly, performant, and scalable web applications using **React.js**, **JavaScript**, and **Tailwind CSS**.
+🚀 I'm a FullStack Developer passionate about building user-friendly, performant, and scalable web applications using **React.js**,**Next.js**,**Node.js**  **JavaScript**, and **Tailwind CSS**.
 
-- 🌱 Currently working as a React Intern at **Talentrise Technokrate Pvt. Ltd.**
+- 🌱 Currently working as a Full Stack Developer at **Cloudexter**
 - 🛠 Skilled in React.js, Next.js, Tailwind CSS, Redux, Git, and modern frontend tooling
 - 💬 Ask me about frontend development, React best practices, and state management
-- 📈 Always learning and improving through open-source, internships, and personal projects
+- 📈 Always learning and improving through open-source and personal projects
 
 ---
 
